@@ -382,7 +382,7 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://buildyourfuture.withgoogle.com/internships/" rel="nofollow">Google</a></td>
 <td>Various locations across the world</td>
-<td>Present</td>
+<td>Over</td>
 <td>STEP, BOLD, Software Engineering, IT</td>
 </tr>
 <tr>
