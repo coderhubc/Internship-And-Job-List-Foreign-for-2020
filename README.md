@@ -856,7 +856,7 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://boards.greenhouse.io/c3iot/jobs/4086849002" rel="nofollow">C3.ai</a></td>
 <td>Redwood, CA</td>
-<td>Present</td>
+<td>OVER</td>
 <td>Prefers experience with JavaScript, Java, or other object-oriented programming language.</td>
 </tr>
 <tr>
