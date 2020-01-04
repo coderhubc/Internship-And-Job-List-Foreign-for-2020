@@ -358,13 +358,13 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://jobs.jobvite.com/splunk/job/o21NafwK" rel="nofollow">Splunk</a></td>
 <td>San Jose, San Francisco</td>
-<td>Present</td>
+<td>Over</td>
 <td></td>
 </tr>
 <tr>
 <td><a href="https://stripe.com/jobs/listing/software-engineering-intern/1793449" rel="nofollow">Stripe</a></td>
 <td>San Francisco or Seattle</td>
-<td>Present</td>
+<td>Over</td>
 <td>Plan to graduate in 2021 or 2022</td>
 </tr>
 <tr>
