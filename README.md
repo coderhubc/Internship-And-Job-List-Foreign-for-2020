@@ -952,7 +952,7 @@ And please **Don't forget to star** this repo.
 <tr>
 <td><a href="https://www.uber.com/global/en/careers/list/54737/" rel="nofollow">Uber</a></td>
 <td>Seattle, Washington; Boulder, Colorado; Palo Alto, California; San Francisco, California</td>
-<td>Present</td>
+<td>OVER</td>
 <td></td>
 </tr>
 <tr>
